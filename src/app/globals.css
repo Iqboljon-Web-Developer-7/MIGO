@@ -135,7 +135,7 @@ section {
   justify-content: center;
 }
 
-@keyframes slide-in-right {
+@keyframes slide-in-bottom {
   0% {
     transform: translateY(-100%);
     opacity: 0;
@@ -146,6 +146,17 @@ section {
   }
 }
 
-.animate-slide-in-right {
-  animation: slide-in-right 0.3s ease-out forwards;
+.animate-slide-in-bottom {
+  animation: slide-in-bottom 0.3s ease-out forwards;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
 }
