@@ -1,0 +1,25 @@
+"use strict";
+/*
+ * ATTENTION: An "eval-source-map" devtool has been used.
+ * This devtool is neither made for production nor for readable output files.
+ * It uses "eval()" calls to create a separate source file with attached SourceMaps in the browser devtools.
+ * If you are trying to read the output file, select a different devtool (https://webpack.js.org/configuration/devtool/)
+ * or disable the default devtool with "devtool: false".
+ * If you are looking for production-ready output files, see mode: "production" (https://webpack.js.org/configuration/mode/).
+ */
+exports.id = "_rsc_messages_ru_json";
+exports.ids = ["_rsc_messages_ru_json"];
+exports.modules = {
+
+/***/ "(rsc)/./messages/ru.json":
+/*!**************************!*\
+  !*** ./messages/ru.json ***!
+  \**************************/
+/***/ ((module) => {
+
+module.exports = /*#__PURE__*/JSON.parse('{"Header":{"home":"Главная","howItWorks":"Как Это Работает","whyMigo":"Почему MIGO","successStories":"Истории Успеха","contact":"Контакты","signUp":"Зарегистрироваться"},"HomePage":{},"Hero":{"title":"Откройте свое будущее с MIGO","description":"Мы тестируем таланты Узбекистана и направляем их в лучшие университеты за рубежом","signUp":"Зарегистрируйтесь сейчас","learnMore":"Узнать больше","imageAlt":"Студенты, обучающиеся за границей","modal":{"title":"Откройте миссию MIGO","description":"MIGO стремится выявлять и развивать таланты из Узбекистана, помогая студентам поступить в престижные университеты по всему миру. Наши комплексные тесты и индивидуальное сопровождение гарантируют достижение ваших академических целей.","close":"Закрыть","image1Alt":"Кампус Высшей школы экономики","image2Alt":"Кампус международного университета","image3Alt":"Студенты, обучающиеся за границей"}},"HowItWorks":{"title":"Как работает MIGO","description":"Наш простой трехэтапный процесс, чтобы помочь вам учиться за границей","step1Title":"Пройдите тестирование","step1Description":"Пройдите тест MIGO, чтобы оценить ваш академический потенциал и сильные стороны.","step2Title":"Получите результаты","step2Description":"Получите подробные результаты и экспертные отзывы о ваших достижениях и потенциале.","step3Title":"Учитесь за границей","step3Description":"Получите персонализированную поддержку для поступления и обучения в лучших университетах мира."},"WhyMIGO":{"title":"Почему выбирают MIGO?","description":"Мы стремимся помочь талантливым студентам из Узбекистана полностью реализовать свой потенциал в лучших университетах мира.","point1Title":"Точное тестирование талантов","point1Description":"Наша методология оценки разработана для выявления истинного потенциала, выходящего за рамки стандартных академических показателей.","point2Title":"Индивидуальное сопровождение","point2Description":"Персонализированная поддержка на всех этапах, от подготовки к тестам до подачи заявлений в университеты.","point3Title":"Доказанный успех","point3Description":"Наши студенты успешно поступили в престижные университеты Европы, Северной Америки и Азии."},"SuccessStories":{"title":"Наши истории успеха","description":"Услышьте от студентов, которые изменили свое будущее с MIGO","testimonial1Name":"Азиза К.","testimonial1Location":"Учится в Германии","testimonial1Quote":"MIGO помог мне поступить в Технический университет Мюнхена! Их поддержка была неоценима на протяжении всего процесса.","testimonial1ImageAlt":"Портрет студента","testimonial2Name":"Бобур М.","testimonial2Location":"Учится в США","testimonial2Quote":"Я никогда не думал, что смогу учиться в университете Лиги плюща. Оценка MIGO раскрыла мой потенциал и помогла мне поступить в Корнелл!","testimonial2ImageAlt":"Портрет студента","testimonial3Name":"Дилшод Т.","testimonial3Location":"Учится в Южной Корее","testimonial3Quote":"Персонализированный подход MIGO помог мне определить мои сильные стороны и получить стипендию в Национальном университете Сеула.","testimonial3ImageAlt":"Портрет студента"},"Contact":{"title":"Готовы начать свое путешествие?","description":"Присоединяйтесь к MIGO сегодня и сделайте первый шаг к обучению в лучших университетах за рубежом.","button":"Присоединяйтесь к MIGO сегодня!","note":"Без обязательств. Начните с бесплатной консультации."},"Footer":{"brand":"MIGO","copyright":"© {year} MIGO. Все права защищены.","privacyPolicy":"Политика конфиденциальности","termsOfService":"Условия предоставления услуг"}}');
+
+/***/ })
+
+};
+;
