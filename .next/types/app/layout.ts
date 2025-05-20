@@ -1,4 +1,4 @@
-// File: /Users/macbookpro/Desktop/MIGO 2/src/app/layout.tsx
+// File: /Users/macbookpro/Desktop/MIGO/src/app/layout.tsx
 import * as entry from '../../../src/app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
